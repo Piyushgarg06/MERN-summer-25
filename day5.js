@@ -65,5 +65,4 @@ myArr2.forEach((items, index, arr) => {
 arrObj.forEach((items) => {
   //here items store each element which is an object inside the array
   console.log(items.languagename); //suppose we want to print name of each coding language so we
-  console.log(items.extension);
 });
