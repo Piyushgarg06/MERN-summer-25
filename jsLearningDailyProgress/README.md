@@ -17,7 +17,7 @@
 - Arrow functions and return types
 - IIFEs
 - Rest parameters
-- `this` keyword
+- this keyword
 - Flow of control
 
 ### Day 5
@@ -40,7 +40,7 @@
 
 ## 🔗 Notes & Resources
 
-- JS learning notes available on request → **DM me on LinkedIn!**
+- JS learning notes available on request → **DM me on LinkedIn!** https://www.linkedin.com/in/piyush-garg-028158322/
 
 ---
 
