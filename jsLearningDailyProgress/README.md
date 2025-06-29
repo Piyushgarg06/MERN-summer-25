@@ -6,7 +6,7 @@
 - Data types
 - Type conversion
 - Stack vs Heap memory
-- Strings, numbers, and math module
+- Strings, numbers, and the math module
 - Date and time
 - Arrays and array methods
 - Objects and object methods
@@ -46,7 +46,7 @@
 
 ## 🙏 Credits
 
-Thanks to [Chai aur Code](https://www.youtube.com/@chaiaurcode) and **Hitesh Choudhary** for their excellent tutorials helping me along the way.
+Thanks to [Chai aur Code](https://www.youtube.com/@chaiaurcode) and **Hitesh Choudhary** for their excellent tutorials, which have helped me along the way.
 
 ---
 
