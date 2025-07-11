@@ -59,7 +59,7 @@ function App() {
                 setLength(e.target.value);
               }}
             />
-            <label>Label : {length}</label>
+            <label>length : {length}</label>
           </div>
         </div>
         <div className="flex items-center gap-x-1">
