@@ -10,6 +10,7 @@ const InputBox = ({
   amountDisabled = false,
   currencyDisabled = false,
   className = "",
+  placeholder = "",
 }) => {
   const amountInputId = useId();
 
@@ -26,7 +27,7 @@ const InputBox = ({
           id={amountInputId}
           type="number"
           className="outline-none w-full bg-white rounded-md py-2 px-3 text-black"
-          placeholder="Enter amount"
+          placeholder={placeholder}
           disabled={amountDisabled}
           value={amount}
           onChange={(e) => onAmountChange && onAmountChange(e.target.value)}

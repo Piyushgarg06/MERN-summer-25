@@ -49,6 +49,7 @@ function App() {
               onCurrencyChange={(currency) => setFrom(currency)}
               selectCurrency={from}
               onAmountChange={(amount) => setAmount(amount)}
+              placeholder="Enter Amount"
             />
           </div>
           <div className="relative w-full my-4 flex justify-center">
@@ -68,6 +69,7 @@ function App() {
               onCurrencyChange={(currency) => setTo(currency)}
               selectCurrency={to}
               amountDisabled
+              placeholder="Converted Amount"
             />
           </div>
           <button
